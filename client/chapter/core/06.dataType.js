@@ -79,12 +79,3 @@ sum(1, 2);
 
 // this
 
-let circle = "o";
-let cross = "x";
-let circleBox = document.write(`<span>${circle}</span>`);
-let crossBox = document.write(`<span>${cross}</span>`);
-
-function repeat() {}
-repeat();
-
-console.log(circleBox);
